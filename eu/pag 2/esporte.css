@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+header{
+background-color: black;
+}
+
+
+a{
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+div{
+    text-align: center;
+}
+img{
+    padding-right: 20px;
+    height: 70px;
+    margin-top: 5px;
+}
+a:hover{
+    color: blue;
+}
+.fundo{
+    position: absolute;
+    height: inherit;
+    color: transparent;
+    margin: 0;
+}
+main{
+    position: relative;
+
+}
+.intro{
+    margin-top: 100px;
+    width: 60%;
+    height: 60%;
+    
+}
+.sla{
+    margin-top: -20px;
+}
+
+.cabeca2{
+    margin-left: -50px;
+}
+
+.imagem{
+    height: 75px;
+}
